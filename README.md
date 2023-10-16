@@ -9,3 +9,15 @@
 
 ## 완성작 보기
 미리보기: 
+
+## 사용 스택
+
+### 세팅 순서
+git add .
+git status
+git commit -m "dd"
+git push -u origin main
+npm i sass
+
+### 라이브러리 설치
+sass 설치 : `npm install sass` or `npm i sass`
