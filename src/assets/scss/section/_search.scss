@@ -1,0 +1,22 @@
+.search__inner {
+    width: 100%;
+    padding: 17px 40px;
+
+    label {
+        display: none;
+    }
+
+    .search__input {
+        margin-top: 15px;
+        width: 100%;
+        background-color: var(--maincolor03-100);
+        border: 1px solid var(--maincolor03-100);
+        padding: 15px 30px;
+        border-radius: 5px;
+        color: #fff;
+    }
+
+    .search__input::placeholder {
+        color: var(--maincolor01); /* 원하는 색상으로 변경 */
+      }
+}

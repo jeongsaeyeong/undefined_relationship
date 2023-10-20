@@ -21,3 +21,4 @@ git push -u origin main
 ### 라이브러리 설치
 sass 설치 : `npm install sass` or `npm i sass`
 react-router-dom 설치 : `npm install react-router-dom`
+react-cion 설치 : `npm install react-icons `
