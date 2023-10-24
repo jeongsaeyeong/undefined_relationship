@@ -22,3 +22,11 @@ git push -u origin main
 sass 설치 : `npm install sass` or `npm i sass`
 react-router-dom 설치 : `npm install react-router-dom`
 react-cion 설치 : `npm install react-icons `
+
+### 클론 만드는 법
+git clone '주소'
+npm i
+npm start 
+
+### axios 설치
+npm i axios
